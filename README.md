@@ -1,7 +1,7 @@
 # 📊 Superstore Sales & Profitability Diagnostic Dashboard
 
 [![View on Tableau Public](https://img.shields.io/badge/View_Interactive_Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/views/SuperstoreSalesDiagnosticDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[![Excel](https://img.shields.io/badge/Download_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/Swiper0/Superstore-Sales-Profitability-Diagnostic-Dashboard/raw/main/SampleSuperstore%20-%20Dashboard%20-%20Hanson%20Nicholas.xlsx)
 
 ## 📌 Project Overview
 This project provides a comprehensive diagnostic analysis of the Superstore retail dataset. The primary objective is to identify operational inefficiencies, isolate loss-generating product lines, and uncover pricing strategy flaws to maximize net profitability. 
